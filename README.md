@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm interested in applying bioinformatics methods, especially single cell genomics, to investigate diseases of the central nervous system. 
 
 <!--
 **niklasbinder/niklasbinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
