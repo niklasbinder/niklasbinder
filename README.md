@@ -1,6 +1,5 @@
 ### Hi there 👋
-MSc Biology student deeply interested in the intersection of biology and data science. Specifically, I am focused on single-cell data analysis and its application in studying neurological disorders including cancer. I leverage bioinformatics tools and programming languages like Python and R for deep data analysis. My GitHub hosts my exploratory projects and research, all in the pursuit of harnessing the power of data to unravel the complexities of the brain. Looking forward to collaboration and contributing to open-source bioinformatics projects.
-
+MSc Biology student deeply interested in the intersection of biology and data science. Specifically, I am focused on single-cell data analysis and its application in studying neurological disorders including cancer. I leverage bioinformatics tools and programming languages like Python and R for deep data analysis.
 <!--
 **niklasbinder/niklasbinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
