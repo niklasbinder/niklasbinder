@@ -1,5 +1,7 @@
 ### Hi there 👋
-MSc Biology student deeply interested in the intersection of biology and data science. Specifically, I am focused on single-cell data analysis and its application in studying neurological disorders including cancer. I leverage bioinformatics tools and programming languages like Python and R for deep data analysis.
+I am a dedicated master's biology student specializing in Computational Biology at the Institute of Neuropathology of the University of Freiburg. My research focuses on the intricate study of brain tumors, specifically gliomas and meningiomas, using cutting-edge single cell analysis techniques. I am actively engaged in unraveling the molecular intricacies of these tumors through the application of single cell transcriptomics and multiomics methodologies, along with spatial transcriptomics.
+
+In my quest to decipher the complexities of brain tumors, I adeptly harness the power of data analysis tools such as R and Python. These programming languages enable me to dissect and interpret the vast datasets generated during our research, ultimately contributing to our understanding of these devastating diseases.
 <!--
 **niklasbinder/niklasbinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
