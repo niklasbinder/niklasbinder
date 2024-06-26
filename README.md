@@ -4,31 +4,19 @@ I am a master's biology student specializing in Computational Biology at the [In
 <small>
 
 ### Languages & Tools
-- R: Seurat, Bioconductor (DESeq2, edgeR), tidyverse
-- Python: scanpy, matplotlib, pandas, seaborn
-- Version Control: Git, GitHub
+R (Seurat, tidyverse) • Python (scanpy, seaborn, pandas, numpy) • Unix/Linux • Git • LaTeX
 
 ### Omics Data Types
-- 🧬 Single-cell RNA-seq
-- 📊 Bulk RNA-seq
-- 🔬 Single-cell ATAC-seq
-- 🔗 Multimodal (ATAC + RNA)
-- 🏷️ CITE-seq
-- 🖼️ CODEX (spatial proteomics)
+🧬 scRNA-seq • 📊 Bulk RNA-seq • 🔬 scATAC-seq • 🔗 Multimodal (ATAC+RNA) • 🏷️ CITE-seq • 🖼️ CODEX
 
 ### Advanced Analysis Techniques
-- 🧬 Multiomics Integration
-- 🔬 Multiplex Analysis
-- 🌳 Trajectory Inference & Pseudotime Ordering
-- 🧮 Gene Set Enrichment Analysis (GSEA)
-- 🔍 Cell Type Deconvolution
-- 🌐 Gene Regulatory Network Inference
-- 🧩 Ligand-Receptor Interaction Analysis
-- 🔬 Copy Number Inference
+🔗 Multiomics Integration • 🧭 Trajectory Inference • 🧮 GSEA • 🔍 Spatial Analysis
+🌐 Gene Regulatory Network Inference • 🧩 Ligand-Receptor Interaction • 📊 Copy Number Inference
+
 
 ### Reproducibility
-- R Markdown / Jupyter Notebooks
-- Version Control: Git, GitHub
+📓 R Markdown / Jupyter Notebooks • 📦 Conda Environments • 🐳 Docker
+
 <small>
 <!--
 **niklasbinder/niklasbinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
