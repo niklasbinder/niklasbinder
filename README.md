@@ -3,18 +3,20 @@ I am a master's biology student specializing in Computational Biology at the [In
 ## Single-Cell Omics Analysis Skills
 
 ### Programming Languages
-- R: Advanced
-- Python: Intermediate
+- R
+- Python
+- LateX
+- Julia
 
 ### Key Libraries & Frameworks
 - R:
   - Seurat
-  - Bioconductor (DESeq2, edgeR)
   - tidyverse
 - Python:
   - scanpy
-  - anndata
-  - squidpy
+  - pandas
+  - scvi
+  - matplotlib / seaborn
 
 ### Analysis Techniques
 - 📊 Dimensionality Reduction (PCA, t-SNE, UMAP)
@@ -24,15 +26,6 @@ I am a master's biology student specializing in Computational Biology at the [In
 - 🌐 Cell Type Annotation
 - 🧮 Gene Set Enrichment Analysis
 
-### Visualization
-- ggplot2 (R)
-- matplotlib & seaborn (Python)
-- Complex multi-panel plots
-
-### Data Processing
-- 🧹 Quality Control & Filtering
-- 🔄 Normalization Techniques
-- 🔗 Data Integration
 
 ### Version Control & Reproducibility
 - Git / GitHub
