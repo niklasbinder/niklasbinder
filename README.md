@@ -28,7 +28,7 @@ I am a master's biology student specializing in Computational Biology at the [In
 ### Reproducibility
 - R Markdown / Jupyter Notebooks
 - Version Control: Git, GitHub
-- <small>
+<small>
 <!--
 **niklasbinder/niklasbinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
