@@ -1,25 +1,34 @@
 ## Hi there 👋
 I am a master's biology student specializing in Computational Biology at the [Institute of Neuropathology](https://www.uniklinik-freiburg.de/neuropathology.html) of the [University of Freiburg](https://uni-freiburg.de/en/). My research focuses on the intricate study of brain tumors, specifically gliomas and meningiomas, using cutting-edge single cell analysis techniques. 
 ## Single-Cell Omics Analysis Skills
-
+<small>
 ### Languages & Tools
 - R: Seurat, Bioconductor (DESeq2, edgeR), tidyverse
-- Python: scanpy, anndata, squidpy
+- Python: scanpy, matplotlib, pandas, seaborn
 - Version Control: Git, GitHub
+
+### Omics Data Types
+- 🧬 Single-cell RNA-seq
+- 📊 Bulk RNA-seq
+- 🔬 Single-cell ATAC-seq
+- 🔗 Multimodal (ATAC + RNA)
+- 🏷️ CITE-seq
+- 🖼️ CODEX (spatial proteomics)
 
 ### Advanced Analysis Techniques
 - 🧬 Multiomics Integration
-- 🔬 Spatial Transcriptomics Analysis
+- 🔬 Multiplex Analysis
 - 🌳 Trajectory Inference & Pseudotime Ordering
 - 🧮 Gene Set Enrichment Analysis (GSEA)
 - 🔍 Cell Type Deconvolution
-- 🌐 Single-Cell Regulatory Network Inference
+- 🌐 Gene Regulatory Network Inference
 - 🧩 Ligand-Receptor Interaction Analysis
-- 🔬 Clonal Evolution in Cancer Cells
+- 🔬 Copy Number Inference
 
 ### Reproducibility
 - R Markdown / Jupyter Notebooks
-- Containerization (Docker)
+- Version Control: Git, GitHub
+- <small>
 <!--
 **niklasbinder/niklasbinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
