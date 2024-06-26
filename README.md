@@ -10,7 +10,7 @@ R (Seurat, tidyverse) • Python (scanpy, seaborn, pandas, numpy) • Unix/Linux
 🧬 scRNA-seq • 📊 Bulk RNA-seq • 🔗 Multimodal (ATAC+RNA) • 🏷️ CITE-seq • 🖼️ CODEX
 
 ### Advanced Analysis Techniques
-🔗 Multiomics Integration • 🧭 Trajectory Inference • 🧮 GSEA • 🔍 Spatial Analysis
+🔗 Multiomics Integration • 🧭 Trajectory Inference • 🔮 Perturbation Prediction • 🔍 Spatial Analysis
 🌐 Gene Regulatory Network Inference • 🧩 Ligand-Receptor Interaction • 📊 Copy Number Inference
 
 
