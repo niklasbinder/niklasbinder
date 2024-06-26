@@ -7,7 +7,7 @@ I am a master's biology student specializing in Computational Biology at the [In
 R (Seurat, tidyverse) • Python (scanpy, seaborn, pandas, numpy) • Unix/Linux • Git • LaTeX
 
 ### Omics Data Types
-🧬 scRNA-seq • 📊 Bulk RNA-seq • 🔬 scATAC-seq • 🔗 Multimodal (ATAC+RNA) • 🏷️ CITE-seq • 🖼️ CODEX
+🧬 scRNA-seq • 📊 Bulk RNA-seq • 🔗 Multimodal (ATAC+RNA) • 🏷️ CITE-seq • 🖼️ CODEX
 
 ### Advanced Analysis Techniques
 🔗 Multiomics Integration • 🧭 Trajectory Inference • 🧮 GSEA • 🔍 Spatial Analysis
