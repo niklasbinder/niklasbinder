@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a master's biology student specializing in Computational Biology at the [Institute of Neuropathology](https://www.uniklinik-freiburg.de/neuropathology.html) of the [University of Freiburg](https://uni-freiburg.de/en/). My research focuses on the intricate study of brain tumors, specifically gliomas and meningiomas, using cutting-edge single cell and spatial omics techniques. 
+I currently working as a research assistant at the [Institute of Neuropathology](https://www.uniklinik-freiburg.de/neuropathology.html) of the [University of Freiburg](https://uni-freiburg.de/en/). My research focuses on the intricate study of brain tumors, specifically gliomas and meningiomas, using cutting-edge single cell and spatial omics techniques. 
 ## Single-Cell Omics Analysis Skills
 <small>
 
@@ -15,7 +15,7 @@ R (Seurat, tidyverse) • Python (scanpy, seaborn, pandas, numpy) • Unix/Linux
 
 
 ### Reproducibility
-📓 R Markdown / Jupyter Notebooks • 📦 Conda Environments • 🐳 Docker
+📓 R Markdown / Jupyter Notebooks • 📦 Conda Environments 
 
 <small>
 <!--
