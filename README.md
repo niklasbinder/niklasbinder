@@ -1,5 +1,5 @@
 ## Hi there 👋
-I currently working as a research assistant at the [Institute of Neuropathology](https://www.uniklinik-freiburg.de/neuropathology.html) of the [University of Freiburg](https://uni-freiburg.de/en/). My research focuses on the intricate study of brain tumors, specifically gliomas and meningiomas, using cutting-edge single cell and spatial omics techniques. 
+I am currently working as a research assistant at the [Institute of Neuropathology](https://www.uniklinik-freiburg.de/neuropathology.html) of the [University of Freiburg](https://uni-freiburg.de/en/). My research focuses on the intricate study of brain tumors, specifically gliomas and meningiomas, using cutting-edge single cell and spatial omics techniques. 
 ## Single-Cell Omics Analysis Skills
 <small>
 
