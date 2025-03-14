@@ -1,21 +1,10 @@
-## Hi there 👋
-I am currently working as a research assistant at the [Institute of Neuropathology](https://www.uniklinik-freiburg.de/neuropathology.html) of the [University of Freiburg](https://uni-freiburg.de/en/). My research focuses on the intricate study of brain tumors, specifically gliomas and meningiomas, using cutting-edge single cell and spatial omics techniques. 
-## Single-Cell Omics Analysis Skills
-<small>
+Research Assistant @ Institute of Neuropathology, University of Freiburg, focusing on gliomas and meningiomas using advanced omics techniques.
+Technical Skills
 
-### Languages & Tools
-R (Seurat, tidyverse) • Python (scanpy, seaborn, pandas, numpy) • Unix/Linux • Git • LaTeX
-
-### Omics Data Types
-🧬 scRNA-seq • 📊 Bulk RNA-seq • 🔗 Multiome (ATAC+RNA) • 🏷️ CITE-seq • 🖼️ CODEX • Immune Repetoire (TCR/BCR)
-
-### Advanced Analysis Techniques
-🔗 Multiomics Integration • 🧭 Trajectory Inference • 🔮 Perturbation Prediction • 🔍 Spatial Analysis
-🌐 Gene Regulatory Network Inference • 🧩 Ligand-Receptor Interaction • 📊 Copy Number Inference
-
-
-### Reproducibility
-📓 R Markdown / Jupyter Notebooks • 📦 Conda Environments 
+Languages & Tools: R (Seurat, tidyverse), Python (scanpy), Unix/Linux, Git, LaTeX
+Data Analysis: scRNA-seq, CITE-seq, CODEX, Multiome, Spatial, TCR/BCR
+Advanced Methods: Trajectory inference, GRN analysis, L-R interactions, CNV inference
+Reproducibility: R Markdown, Jupyter, Conda environments
 
 <small>
 <!--
