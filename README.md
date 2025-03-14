@@ -4,11 +4,14 @@ I am currently working as a research assistant at the [Institute of Neuropatholo
 <small>
 ### Languages & Tools
 R (Seurat, tidyverse) • Python (scanpy, seaborn, pandas, numpy) • Unix/Linux • Git • LaTeX
+  
 ### Omics Data Types
 🧬 scRNA-seq • 📊 Bulk RNA-seq • 🔗 Multiome (ATAC+RNA) • 🏷️ CITE-seq • 🖼️ CODEX • Immune Repetoire (TCR/BCR)
+
 ### Advanced Analysis Techniques
 🔗 Multiomics Integration • 🧭 Trajectory Inference • 🔮 Perturbation Prediction • 🔍 Spatial Analysis
 🌐 Gene Regulatory Network Inference • 🧩 Ligand-Receptor Interaction • 📊 Copy Number Inference
+
 ### Reproducibility
 📓 R Markdown / Jupyter Notebooks • 📦 Conda Environments
 
