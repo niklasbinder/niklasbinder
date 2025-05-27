@@ -1,6 +1,6 @@
 
-## Single-Cell Omics Analysis Skills
-<small>
+# Single-Cell Omics Analysis Skills
+
 ## Languages & Tools
 R (Seurat, tidyverse) • Python (scanpy, seaborn, pandas, numpy) • Unix/Linux • Git • LaTeX
   
@@ -13,8 +13,6 @@ R (Seurat, tidyverse) • Python (scanpy, seaborn, pandas, numpy) • Unix/Linux
 
 ## Reproducibility
 📓 R Markdown / Jupyter Notebooks • 📦 Conda Environments
-
-<small>
 <!--
 **niklasbinder/niklasbinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
