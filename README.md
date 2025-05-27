@@ -1,4 +1,4 @@
-Hi, I'm Niklas BInder, a PhD Student at University Hospital Tübingen, working at the intersection of spatial omics, tumor immunology and artificial intelligence.
+PhD Student at University Hospital Tübingen, working at the intersection of spatial omics, tumor immunology and artificial intelligence.
 
 # Single-Cell Omics Analysis Skills
 
