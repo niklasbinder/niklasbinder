@@ -1,9 +1,9 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Spatial%20Omics%20%C3%97%20Tumor%20Immunology%20%C3%97%20AI&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=PhD%20Student%20%40%20University%20Hospital%20T%C3%BCbingen&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Spatial%20Omics%20%C3%97%20Tumor%20Immunology&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=PhD%20Student%20%40%20University%20Hospital%20T%C3%BCbingen&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4FB3BF&center=true&vCenter=true&width=700&lines=Decoding+the+tumor+microenvironment%2C+one+cell+at+a+time;Single-cell+%E2%86%92+Spatial+%E2%86%92+Insight;Building+AI+tools+for+immuno-oncology" alt="typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4FB3BF&center=true&vCenter=true&width=700&lines=Decoding+the+tumor+microenvironment%2C+one+cell+at+a+time;Single-cell+%E2%86%92+Spatial+%E2%86%92+Insight;Computational+biology+for+immuno-oncology" alt="typing intro"/>
 
 <br/>
 
@@ -18,19 +18,13 @@
 ## 🧭 About
 
 I'm a PhD student at the **University Hospital Tübingen**, working at the intersection of **spatial omics**, **tumor immunology** and **artificial intelligence**.
-My research combines high-dimensional single-cell and spatial measurements with machine learning to understand how immune cells organize, communicate and fail inside tumors.
+As a computational biologist, I use single-cell and spatial technologies to understand how immune cells organize, communicate and fail inside the **tumor microenvironment**, and how that shapes response to therapy.
 
-```python
-class Researcher:
-    def __init__(self):
-        self.role      = "PhD Student, University Hospital Tübingen"
-        self.interests = ["spatial omics", "tumor immunology", "artificial intelligence"]
-        self.scale     = "single cell"
+<div align="center">
 
-    def daily_loop(self):
-        while True:
-            self.wrangle_data().integrate().visualize().ask_better_questions()
-```
+🔬 **Tumor microenvironment** &nbsp;•&nbsp; 🧫 **Single-cell & spatial data** &nbsp;•&nbsp; 🤝 **Bridging bench and bioinformatics**
+
+</div>
 
 ---
 
@@ -96,19 +90,6 @@ class Researcher:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=niklasbinder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FB3BF&icon_color=4FB3BF" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasbinder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FB3BF" alt="top languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niklasbinder&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4FB3BF&line=4FB3BF&point=ffffff" width="100%" alt="activity graph"/>
-
-</div>
-
----
-
 ## 📫 Get in Touch
 
 <div align="center">
@@ -118,7 +99,7 @@ class Researcher:
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](#)
 
-<sub>Open to collaborations in spatial biology, immuno-oncology and ML for single-cell data.</sub>
+<sub>Open to collaborations in spatial biology, tumor immunology and single-cell analysis.</sub>
 
 </div>
 
