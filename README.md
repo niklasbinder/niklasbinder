@@ -54,6 +54,11 @@ As a computational biologist, I use single-cell and spatial technologies to unde
 
 ## 🧬 Single-Cell & Spatial Omics
 
+<div align="center">
+<img src="./umap_to_tissue.svg" width="100%" alt="Cells moving from a UMAP embedding back to their location in the tumor tissue"/>
+<br/><sub>From embedding to tissue: the same cells, first clustered by expression, then placed where they sit in the tumor microenvironment.</sub>
+</div>
+
 <table align="center">
   <tr>
     <th align="left">📦 Data Types</th>
